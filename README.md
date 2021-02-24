@@ -1,5 +1,4 @@
 ### Hi there 👋
-## O to mi chodzi
 🌱 I’m currently learning how to make GitHub profile
 <!--
 **D0man/D0man** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
